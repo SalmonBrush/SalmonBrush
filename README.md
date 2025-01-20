@@ -1,4 +1,9 @@
 # Hello, Earth 🧚‍♂️
 I like to code sometimes.
 
-  --- SalmonBrush ---
+Python
+HTML
+CSS 
+JS
+
+/SalmonBrush
